@@ -15,18 +15,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=touqeer001" alt="touqeer001" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Application**
-
-- 🌱 I’m currently learning **Next.Js,java**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-iota-coral.vercel.app](https://my-portfolio-iota-coral.vercel.app)
-
-- 💬 Ask me about **React,MongoDb,Express,Javascript**
-
-- 📫 How to reach me **touqeeransari001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zxvHJ195b_iGcwjiUKTt_6DL84pKVEus/view?usp=sharing](https://drive.google.com/file/d/1zxvHJ195b_iGcwjiUKTt_6DL84pKVEus/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/touqeer-ansari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/touqeer-ansari/" height="30" width="40" /></a>
