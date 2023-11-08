@@ -50,7 +50,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Trophy 🐍</h2>
   <br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=touqeer001&label=Profile%20views&color=0e75b6&style=flat" alt="touqeer001" /> </p>
 
