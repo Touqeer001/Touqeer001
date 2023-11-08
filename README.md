@@ -59,7 +59,9 @@
 <div align=center>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=touqeer001&show_icons=true&locale=en&layout=compact" alt="touqeer001" /></p>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=touqeer001&show_icons=true&locale=en" alt="touqeer001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=touqeer001&" alt="touqeer001" /></p>
 </div>
 
 <br/><br/>
