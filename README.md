@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Touqeer+Ansari!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇨🇦</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <br/>
 
@@ -30,6 +30,11 @@
   <a href="https://my-portfolio-iota-coral.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <a>
+         <a href="https://drive.google.com/file/d/1zxvHJ195b_iGcwjiUKTt_6DL84pKVEus/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    
 </div>
 
  <hr/>
