@@ -12,8 +12,6 @@
 - 📫 How to reach me **touqeeransari001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zxvHJ195b_iGcwjiUKTt_6DL84pKVEus/view?usp=sharing](https://drive.google.com/file/d/1zxvHJ195b_iGcwjiUKTt_6DL84pKVEus/view?usp=sharing)
-- <h1 align="center">Hi 👋, I'm Touqeer Ansari</h1>
-<h3 align="center">A passionate MERN stack Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=touqeer001" alt="touqeer001" /></a> </p>
 
