@@ -52,8 +52,6 @@
 <div align="center">
   <h2>🐍 My Trophy 🐍</h2>
   <br>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=touqeer001&label=Profile%20views&color=0e75b6&style=flat" alt="touqeer001" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=touqeer001" alt="touqeer001" /></a> </p>
   
   <br/><br/><br/>
