@@ -16,7 +16,7 @@
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here]((https://github.com/Touqeer001)/issues)**
 
-  📄 Know about my experiences [https://drive.google.com/file/d/1zxvHJ195b_iGcwjiUKTt_6DL84pKVEus/view?usp=sharing](https://drive.google.com/file/d/1zxvHJ195b_iGcwjiUKTt_6DL84pKVEus/view?usp=sharing)
+  📄 Know about my experiences [https://drive.google.com/file/d/1zxvHJ195b_iGcwjiUKTt_6DL84pKVEus/view?usp=sharing]
  
  </div>
  
@@ -32,7 +32,7 @@
   </a>
     <a>
          <a href="https://drive.google.com/file/d/1zxvHJ195b_iGcwjiUKTt_6DL84pKVEus/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=Resume&logoColor=white" target="_blank" />
     </a>
     
 </div>
