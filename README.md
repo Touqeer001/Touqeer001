@@ -5,12 +5,11 @@
 </h1>
 
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">A passionate software developer from India</h3>
 
 <br/>
 
-<div align="center">
- 
+<div align="center"> 
  🔭 I’m currently working on **E-Commerce Web Application**
  
  🌱 I’m currently learning **Next.js, Tailwind, React Native**
