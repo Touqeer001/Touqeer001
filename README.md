@@ -10,7 +10,8 @@
 <br/>
 
 <div align="center"> 
- 🔭 I’m currently working on **E-Commerce Web Application**
+ 
+🔭 I’m currently working on **E-Commerce Web Application**
  
  🌱 I’m currently learning **Next.js, Tailwind, React Native**
 
