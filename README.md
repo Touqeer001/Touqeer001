@@ -77,6 +77,9 @@
  <a href="https://github.com/Touqeer001/MyPortfolio.git" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MyPortfolio&color=1a78f4&logo=portfolio&logoColor=FFFFFF&label=" alt="MyPortfolio" />
     </a>
+    <a href="https://github.com/Touqeer001/Twiter-Clone-Using-MERN-Stack.git" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter-clone&color=1a78f4&logo=portfolio&logoColor=FFFFFF&label=" alt="Twitter Clone " />
+    </a>
    </p>
 <br>
 
