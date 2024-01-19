@@ -129,7 +129,7 @@
     </a>
 
 <a href="https://github.com/Touqeer001/Twiter-Clone-Using-MERN-Stack.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Touqeer001&repo=MyPortfolio&locale=en&border_radius=0&theme=dark" alt="Touqeer001" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Touqeer001&repo=Twitter-Clone Using MERN Stack&locale=en&border_radius=0&theme=dark" alt="Touqeer001" />
     </a>
     
     
