@@ -70,7 +70,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=E-Commerce Using MERN Stack&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="E-Commerce Using MERN Stack" />
     </a>
     <a href="https://github.com/Touqeer001/Weather-web-base-application.git" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=1BB91F&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=000000&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
     </a>
  
    
