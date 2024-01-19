@@ -119,7 +119,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Touqeer001&repo=Blog-Web-Application-Using-Mern-Stack&locale=en&border_radius=0&theme=dark" alt="Touqeer001" />
     </a>
     <a href="https://github.com/Touqeer001/E-Commerce-Using-MERN-Stack.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Touqeer001&repo=E-Commerce-Using-MERN-Stack&locale=en&border_radius=0&theme=dark" alt="Touqeer001" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Touqeer001&repo=Flipkart-Clone/E-Commerce Using MERN Stack&locale=en&border_radius=0&theme=dark" alt="Touqeer001" />
     </a>
 <a href="https://github.com/Touqeer001/Weather-web-base-application.git">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Touqeer001&repo=Weather-web-base-application&locale=en&border_radius=0&theme=dark" alt="Touqeer001" />
