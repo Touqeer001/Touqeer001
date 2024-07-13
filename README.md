@@ -80,6 +80,12 @@
     <a href="https://github.com/Touqeer001/Twiter-Clone-Using-MERN-Stack.git" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter-clone&color=1BB91F&logo=portfolio&logoColor=FFFFFF&label=" alt="Twitter Clone " />
     </a>
+      <a href="https://github.com/Touqeer001/Online-lecture-scheduling-web-application.git" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Online Lecture Scheduling&color=1BB91F&logo=portfolio&logoColor=FFFFFF&label=" alt="Online Lecture Scheduling" />
+    </a>
+
+
+    
    </p>
 <br>
 
